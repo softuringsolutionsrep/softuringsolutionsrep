@@ -1,40 +1,45 @@
 # Olá, sou Josué Vieira 👋
 
-### Sr. Project Manager | Scrum Master | PMO | Product Owner | AI Coder
+### Full Stack Developer · AI Engineer · Fundador da Softuring Solutions
 
-Sou Gerente de Projetos Sênior com sólida formação em **Análise e Desenvolvimento de Sistemas** e **MBA em Gerenciamento de Projetos (FGV)**. Fundador da **Softuring Solutions**, especializado em transformação digital, gestão ágil e desenvolvimento de soluções SaaS com IA.
-
-Combino gestão estratégica de projetos com capacidade técnica de desenvolvimento — do planejamento à entrega, conectando negócio e tecnologia.
+Desenvolvedor full stack especializado em construir produtos SaaS completos — da arquitetura ao deploy. Combino sólida experiência técnica com background em gestão de projetos, o que me permite entregar software com visão de produto, qualidade de código e entrega no prazo.
 
 ---
 
-## 🚀 Sobre mim
+## 💻 Stack Técnica
 
-- 🏢 **Gerente de Projetos Sênior (PMO)** na BKTech Tecnologia da Informação
-- 🏗️ **Fundador** da Softuring Solutions — desenvolvimento de SaaS, web e soluções digitais
-- 🎓 **MBA em IA, Data Science e Big Data** (Ibmec) · **MBA em Gerenciamento de Projetos** (FGV)
-- 🏅 **CSM® e CSPO®** certificado pela Scrum Alliance
-- 📍 Brasília, Distrito Federal, Brasil
-- 🔗 [LinkedIn](https://www.linkedin.com/in/josue-vieira/) · [Softuring Solutions](https://softuringsolutions.com.br)
+**Frontend**
+`React 18` `TypeScript` `Vite` `Tailwind CSS v4` `Radix UI` `shadcn/ui` `Framer Motion` `React Router v7` `@react-pdf/renderer`
+
+**Backend**
+`Node.js 20` `Express 5` `PostgreSQL` `REST API` `Webhooks` `tsx` `Drizzle ORM`
+
+**Autenticação & Pagamentos**
+`Clerk` `Stripe Checkout` `Stripe Webhooks` `JWT` `RBAC`
+
+**IA & Automação**
+`OpenAI API` `Agentes IA` `Cursor AI` `Replit Agent` `Prompt Engineering`
+
+**DevOps & Ferramentas**
+`GitHub` `GitLab` `Figma` `FlutterFlow` `WeWeb`
 
 ---
 
-## 🛠️ Competências & Ferramentas
+## 🏗️ Arquitetura & Boas Práticas
 
-**Gestão de Projetos**
-`PMO` `Scrum` `Kanban` `Lean` `PMBOK` `OKRs` `KPIs` `MS Project` `Monday` `Trello`
-
-**Desenvolvimento & Low-Code**
-`FlutterFlow` `WeWeb` `Replit` `Cursor AI` `Figma` `GitHub` `GitLab`
-
-**Processos & Governança**
-`ITIL V3` `ISO 27002` `ISO 20000` `ServiceNow` `Bizagi` `WBS Chart Pro`
+- Arquitetura **full stack TypeScript** de ponta a ponta (monorepo SPA + API)
+- Controle de acesso por perfil (**RBAC**) com rotas protegidas no frontend e validação no backend
+- Integração com **Stripe**: Checkout hospedado, Webhooks e reconciliação de assinaturas
+- Autenticação com **Clerk** (JWT) e fallback local para desenvolvimento
+- Design system acessível com **Radix UI** + **Tailwind CSS v4**
+- Geração de **PDF no browser** com `@react-pdf/renderer`
+- Padrões REST, separação de responsabilidades e seed automatizado de banco
 
 ---
 
 ## 📂 Projetos
 
-Os repositórios estão com código privado para proteger a propriedade intelectual. Entre em contato para solicitar acesso ou agendar uma demonstração.
+> Repositórios privados para proteger a propriedade intelectual. [Solicite acesso ou agende uma demo.](https://www.linkedin.com/in/josue-vieira/)
 
 | Projeto | Descrição | Stack |
 |---|---|---|
@@ -43,18 +48,19 @@ Os repositórios estão com código privado para proteger a propriedade intelect
 | 🟡 **Proposta Softuring** | Ferramenta de geração de propostas comerciais | Web |
 | ⚖️ **Flecha Advocacia** | Sistema para escritório de advocacia | SaaS · Web |
 | 🗓️ **BK Férias** | Gestão de férias e escalas de equipe | Web |
-| 💪 [**Treinup**](./projetos/treinup/README.md) | Plataforma de treinos físicos de musculação | SaaS |
-| 📦 **Konqi** | Solução de gestão de conteúdo | Web |
-| 🔭 **Tubescope** | Ferramenta de análise e monitoramento | Web |
+| 💪 [**Treinup**](./projetos/treinup/README.md) | Plataforma SaaS de gestão de treinos físicos | React · Node.js · PostgreSQL · Stripe · Clerk |
+| 📦 **Konqi** | GPS financeiro — gestão inteligente de investimentos | React · Node.js · PostgreSQL · Clerk |
+| 🔭 **Tubescope** | Ferramenta de análise e monitoramento de canais | Web |
 | 🌐 **Softuring Site** | Site institucional da Softuring Solutions | Web |
 
 ---
 
-## 📈 Resultados Concretos
+## 🚀 Sobre mim
 
-- ✅ Aumento de **30% na eficiência** de equipes com sprints quinzenais e feedback contínuo
-- ✅ Redução de **25% em desvios de cronograma** com gestão ágil estruturada
-- ✅ Liderança de projetos de transformação digital para órgãos públicos e empresas privadas
+- 🏗️ Fundador da [Softuring Solutions](https://softuringsolutions.com.br) — SaaS, web e automações com IA
+- 🎓 Formação em **Análise e Desenvolvimento de Sistemas** · MBA em **IA, Data Science e Big Data** (Ibmec)
+- 📋 Background em **Gerenciamento de Projetos** (FGV) · **CSM® e CSPO®** pela Scrum Alliance — entrego software com foco em prazo, escopo e qualidade
+- 📍 Brasília, Distrito Federal, Brasil
 
 ---
 
@@ -65,4 +71,4 @@ Os repositórios estão com código privado para proteger a propriedade intelect
 
 ---
 
-*Disponível para oportunidades de Gerente de Projetos, Scrum Master e Product Owner.*
+*Aberto a oportunidades como Desenvolvedor Full Stack / AI Engineer.*
