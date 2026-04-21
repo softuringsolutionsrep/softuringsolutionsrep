@@ -43,7 +43,7 @@ Os repositórios estão com código privado para proteger a propriedade intelect
 | 🟡 **Proposta Softuring** | Ferramenta de geração de propostas comerciais | Web |
 | ⚖️ **Flecha Advocacia** | Sistema para escritório de advocacia | SaaS · Web |
 | 🗓️ **BK Férias** | Gestão de férias e escalas de equipe | Web |
-| 💪 **Treinup** | Plataforma de treinamentos corporativos | SaaS |
+| 💪 [**Treinup**](./projetos/treinup/README.md) | Plataforma de treinamentos corporativos | SaaS |
 | 📦 **Konqi** | Solução de gestão de conteúdo | Web |
 | 🔭 **Tubescope** | Ferramenta de análise e monitoramento | Web |
 | 🌐 **Softuring Site** | Site institucional da Softuring Solutions | Web |
