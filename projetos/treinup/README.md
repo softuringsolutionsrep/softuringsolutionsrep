@@ -1,4 +1,4 @@
-# 🏋️ Treinup
+# 🏋️ Treinup (https://treinup.app.br/lp)
 
 Plataforma completa de gestão de treinos para alunos, personal trainers e academias.
 
