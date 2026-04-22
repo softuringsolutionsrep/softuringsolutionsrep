@@ -43,14 +43,14 @@ Desenvolvedor full stack especializado em construir produtos SaaS completos — 
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| 🔵 **LMS Ramos** | Plataforma de gestão de aprendizagem | SaaS · Web |
-| 🟢 **BKTech Gestão** | Sistema de gestão empresarial | Web · Integração |
+| 🔵 **LMS Ramos** | Plataforma de gestão de imóveis e cobranças | Web · Interno |
+| 🟢 **BKTech Gestão** | Sistema interno de gestão empresarial e comcercial| Web · Interno |
 | 🟡 **Proposta Softuring** | Ferramenta de geração de propostas comerciais | Web |
-| ⚖️ **Flecha Advocacia** | Sistema para escritório de advocacia | SaaS · Web |
-| 🗓️ **BK Férias** | Gestão de férias e escalas de equipe | Web |
+| ⚖️ **Flecha Advocacia** | LP interativa para escritório de advocacia | Landing page · Web |
+| 🗓️ **BK Férias** | Gestão de férias e escalas de equipe | Web · Interno |
 | 💪 [**Treinup**](./projetos/treinup/README.md) | Plataforma SaaS de gestão de treinos físicos | React · Node.js · PostgreSQL · Stripe · Clerk |
 | 📦 **Konqi** | GPS financeiro — gestão inteligente de investimentos | React · Node.js · PostgreSQL · Clerk |
-| 🔭 **Tubescope** | Ferramenta de análise e monitoramento de canais | Web |
+| 🔭 **Tubescope** | Ferramenta de análise e monitoramento de canais do Youtube| SaaS |
 | 🌐 **Softuring Site** | Site institucional da Softuring Solutions | Web |
 
 ---
