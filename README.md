@@ -1,6 +1,6 @@
 # Olá, sou Josué Vieira 👋
 
-### Full Stack Developer · AI Engineer · Fundador da Softuring Solutions
+### Full Stack Developer · AI Engineer · Project Manager Senior
 
 Desenvolvedor full stack especializado em construir produtos SaaS completos — da arquitetura ao deploy. Combino sólida experiência técnica com background em gestão de projetos, o que me permite entregar software com visão de produto, qualidade de código e entrega no prazo.
 
