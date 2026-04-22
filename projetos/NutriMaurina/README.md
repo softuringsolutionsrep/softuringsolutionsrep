@@ -8,7 +8,7 @@
 
 Site institucional de uma nutricionista com visual elegante, acolhedor e focado em conversão. O projeto foi pensado para apresentar autoridade, gerar confiança e facilitar o contato com a paciente em poucos cliques.
 
-**Página oficial:** https://blog.konqi.com.br
+**Página oficial:** https://nutrimaurina.com.br
 
 ## Destaques
 
